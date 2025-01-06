@@ -4,4 +4,4 @@ from django.http.response import HttpResponse
 def index(reqest):
     return HttpResponse("HELLLO PYTON!")
 def about(reqest):
-    return HttpResponse("ABOUT FROM WEB")
+    return HttpResponse("ABOUT FROM MYWEB!")
